@@ -10,7 +10,7 @@ Images/ → Screenshots of visuals
 Data/ → Cleaned dataset (if applicable)
 
 
-## 🔍 Overview
+## Overview
 
 This dashboard offers a comprehensive look at sales performance between 2013–2014. It includes:
 
@@ -19,13 +19,13 @@ This dashboard offers a comprehensive look at sales performance between 2013–2
 - Visual insights into product and customer profitability
 - Discount analysis and performance variance
 
-## 🧹 Data Cleaning Summary
+## Data Cleaning Summary
 
 - Cleaned and merged transactional sales data
 - Created calculated columns: Profit, Profit Margin %, Discount Band
 - Built relationships between calendar, product, segment, and region tables
 
-## 📊 Key KPIs
+## Key KPIs
 
 - **Total Sales**: $127.93M
 - **Profit Margin**: 6.01%
@@ -33,16 +33,16 @@ This dashboard offers a comprehensive look at sales performance between 2013–2
 - **Top Region**: United States
 - **Highest Margin Segment**: Channel Partners (61.09%)
 
-## 📈 Visual Highlights
+## Visual Highlights
 - **Dashboard PDF - you will find the same in image section
 
-## 💡 Tools Used
+## Tools Used
 
 - Microsoft Power BI
 - DAX Measures & Power Query
 - Data Modeling & Relationships
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates business acumen and technical skills in using Power BI to convert raw data into actionable insights.
 
