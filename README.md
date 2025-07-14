@@ -1,13 +1,6 @@
 # Sales Analysis Dashboard – Power BI
 
-A professional dashboard built in Power BI to analyze and visualize sales data across products, countries, and customer segments.
-
-## Project Structure
-
-PowerBI_Files/ → .pbix file
-Documentation/ → PDF dashboard export
-Images/ → Screenshots of visuals
-Data/ → Cleaned dataset (if applicable)
+A professional dashboard built in Power BI to analyze and visualize sales data across products, countries, and customer segments
 
 
 ## Overview
